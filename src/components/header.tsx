@@ -29,7 +29,8 @@ const Header = ({ titlePre = '' }) => {
         <meta name="twitter:site" content="@YanDao0313" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content={ogImageUrl} />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5498753252739399"crossorigin="anonymous"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5498753252739399"
+     crossorigin="anonymous"></script>
       </Head>
       <ul>
         {navItems.map(({ label, page, link }) => (
