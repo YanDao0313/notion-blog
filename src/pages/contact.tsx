@@ -7,8 +7,6 @@ import contactStyles from '../styles/contact.module.css'
 import GitHub from '../components/svgs/github'
 import Twitter from '../components/svgs/twitter'
 import Envelope from '../components/svgs/envelope'
-import bilibili from '../components/svgs/bilibili'
-import Youtube from '../components/svgs/youtube'
 
 const contacts = [
   {
@@ -20,16 +18,6 @@ const contacts = [
     Comp: GitHub,
     alt: 'github icon',
     link: 'https://github.com/YanDao0313',
-  },
-  {
-    Comp: bilibili,
-    alt: 'bilibili icon',
-    link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
-  },
-  {
-    Comp: Youtube,
-    alt: 'Youtube icon',
-    link: 'mailto:jj@jjsweb.site?subject=Notion Blog',
   },
   {
     Comp: Envelope,

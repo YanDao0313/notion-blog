@@ -1,0 +1,13 @@
+import bilibili from '../components/svgs/bilibili'
+import Youtube from '../components/svgs/youtube'
+
+  {
+    Comp: bilibili,
+    alt: 'bilibili icon',
+    link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
+  },
+  {
+    Comp: Youtube,
+    alt: 'Youtube icon',
+    link: 'mailto:jj@jjsweb.site?subject=Notion Blog',
+  },
