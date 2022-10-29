@@ -14,7 +14,7 @@ export default function Index() {
           width="250"
           alt="Vercel + Notion"
         />
-        <h1>My Notion Blog</h1>
+        <h1>Yandao's Blog Posts</h1>
         <h2>
           Blazing Fast Notion Blog with Next.js'{' '}
           <ExtLink
@@ -30,7 +30,13 @@ export default function Index() {
 
         <div className="explanation">
           <p>
-            This is a statically generated{' '}
+            (｡･∀･)ﾉﾞ氦！我是颜导~你现在看到的是我的新个人博客！
+            我是一名初三学生，爱好科技、数码与开发~ 当然，你也猜得到了，博客更新不可能很频繁QwQ
+            以下为此项目原仓库就有的说明文字，如果你也想拥有一个这样的博客，不妨看看：
+          </p>
+
+          <p>
+            This site is a statically generated{' '}
             <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
             <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
             is deployed with <ExtLink href="https://vercel.com">Vercel</ExtLink>
