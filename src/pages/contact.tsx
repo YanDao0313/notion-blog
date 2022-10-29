@@ -32,7 +32,7 @@ export default function Contact() {
       <Header titlePre="Contact" />
       <div className={sharedStyles.layout}>
         <div className={contactStyles.avatar}>
-          <img src="/avatar.png" alt="avatar" height={60} />
+          <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/颜.png" alt="avatar" height={60} />
         </div>
 
         <h1 style={{ marginTop: 0 }}>Contact</h1>
