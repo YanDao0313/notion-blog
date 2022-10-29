@@ -16,7 +16,7 @@ export default function Index() {
         />
         <h1>Yandao's Blog Posts</h1>
         <h2>
-          轻量、快速的 Notion 博客系统，由 Next.js'{' '}
+          轻量、快速的以 Notion 为后端的博客，由 Next.js'{' '}
           <ExtLink
             href="https://github.com/vercel/next.js/issues/9524"
             className="dotted"
