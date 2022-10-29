@@ -1,0 +1,25 @@
+const youtube = (props) => (
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144" enable-background="new 0 0 144 144" xml:space="preserve">  <image id="image0" width="144" height="144" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAMAAADQmBKKAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAY1BMVEUAAAD/AAD/AAD/AAD/
+AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/n5//UFD/v7//////r6//ICD/
+7+//gID/z8//QED/EBD/YGD/MDD/39//j4//cHD4kZUHAAAAEHRSTlMAQDAgcIC/z9+fUI/vYBCv
+tLeYFgAAAAFiS0dEFJLfyTUAAAAHdElNRQfmCh0DLSjz04mQAAACgUlEQVR42u2ba3viIBBGgwQM
+ibm00tq9dff//8omUWryaNTCIO/aOd8lRwITLjNZxjAMwzAMwzAMg4i4yCrWY2XfeK569Mi6+zrF
+/qdmaCUfZL3+fqkqrTcej79ZslK1kLe4NLUpoomcsDb1ZStp7ifjaJdfYpNAZ0AvzIEy3qC5hjrn
+k6h79rQNlk8/vBssn64zc58qtU/X5bNImNqmZzONSHeMhctMXlqe2mWPxOqgrquQRtBA4YRUahOH
++4To1CION/NTe3xymGer1B6frPdCdWqPI2Bj2o3qNrXGkRJrkrmFWmqLCQZNSGPN+sO8R/mSjQQJ
+PT3HEfIOQ1v78kottAoTsrs3YiERKGTtj5/kQt6BehSy9ukXoZAKCdQHIbv7DSZk7fYPmJC1b0Tv
+raISsu80QUmHfMpmQpYmKFEKkQQlUiGKoEQsFB6UCmqh4KBELhQalCIIhQWlKEIhQSmOUEBQiiXk
+HZSiCfkGpSyTsYSs/esxuCP2kF9QAhTy3yf+b6/Md1BHEtr982v0mwTGd/910Xf4uG6D1tYPv0AL
+3lejLfLXj7wNItsowm2loQ4biITojmNITj+oD6zgjvSgDj3zBzsWpj84F2hXCxLx8gXpeqqDvMDD
+E4K7BAa6Js/REgkEWqqFBEtG2aCl62i0hCaXEgszql0iM8ogckMIJm3wmFkJklg5yfOG6KJpvjDC
+mmiWnIsw0cp5QnXyBO+TtPzERiY7IWnSeZ2dIV0ZRbFQa5Kq0KRqsiWkuXsvbczl6qB7FyuV2S2I
+Whkdc1FSaK1U6VEWJ4Qoh0q11rvebeyH8dft0FDdt3hTWdkXkeIq0aoCGYZhGIZhGIZhgvgAgTRF
+3a+SHxIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTAtMjlUMDM6NDU6NDArMDA6MDAhnNDfAAAA
+JXRFWHRkYXRlOm1vZGlmeQAyMDIyLTEwLTI5VDAzOjQ1OjQwKzAwOjAwUMFoYwAAACh0RVh0ZGF0
+ZTp0aW1lc3RhbXAAMjAyMi0xMC0yOVQwMzo0NTo0MCswMDowMAfUSbwAAAAASUVORK5CYII=" />
+</svg>
+  )
+  
+  export default youtube

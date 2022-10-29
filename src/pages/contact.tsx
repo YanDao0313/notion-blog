@@ -7,7 +7,8 @@ import contactStyles from '../styles/contact.module.css'
 import GitHub from '../components/svgs/github'
 import Twitter from '../components/svgs/twitter'
 import Envelope from '../components/svgs/envelope'
-import LinkedIn from '../components/svgs/linkedin'
+import bilibili from '../components/svgs/bilibili'
+import Youtube from '../components/svgs/youtube'
 
 const contacts = [
   {
@@ -31,8 +32,8 @@ const contacts = [
     link: 'mailto:jj@jjsweb.site?subject=Notion Blog',
   },
   {
-    Comp: Email,
-    alt: 'Email icon',
+    Comp: Envelope,
+    alt: 'envelope icon',
     link: 'mailto:blog@daoblog.top?subject=Notion Blog',
   },
 ]
