@@ -16,7 +16,7 @@ export default function Index() {
         />
         <h1>Yandao's Blog Posts</h1>
         <h2>
-          Blazing Fast Notion Blog with Next.js'{' '}
+          轻量、快速的 Notion 博客系统，由 Next.js'{' '}
           <ExtLink
             href="https://github.com/vercel/next.js/issues/9524"
             className="dotted"
@@ -24,6 +24,7 @@ export default function Index() {
           >
             SSG
           </ExtLink>
+           驱动
         </h2>
 
         <Features />
@@ -31,8 +32,12 @@ export default function Index() {
         <div className="explanation">
           <p>
             (｡･∀･)ﾉﾞ氦！我是颜导~你现在看到的是我的新个人博客！
+          </p>
+          <p>
             我是一名初三学生，爱好科技、数码与开发~ 当然，你也猜得到了，博客更新不可能很频繁QwQ
-            以下为此项目原仓库就有的说明文字，如果你也想拥有一个这样的博客，不妨看看：
+          </p>
+          <p>  
+            以下为此项目原仓库就有的说明文字，如果你也想拥有一个这样的博客，不妨看看~
           </p>
 
           <p>
