@@ -4,7 +4,7 @@ This is an example Next.js project that shows Next.js' upcoming SSG (static-site
 
 **Note**: This example uses the experimental SSG hooks only available in the Next.js canary branch! The APIs used within this example will change over time. Since it is using a private API and experimental features, use at your own risk as these things could change at any moment.
 
-**Live Example hosted on Vercel**: https://www.daoblog.top/
+**Live Example hosted on Vercel**: [vercel.app](https://daoblog.vercel.app/)
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Deploy your own Notion blog with Vercel.
 
 or
 
-1. Clone this repo `git clone https://github.com/ijjk/notion-blog.git`
+1. Clone the repo `git clone https://github.com/ijjk/notion-blog.git`
 2. Configure project with [`vc`](https://vercel.com/download)
 3. Add your `NOTION_TOKEN` and `BLOG_INDEX_ID` as environment variables in [your project](https://vercel.com/docs/integrations?query=envir#project-level-apis/project-based-environment-variables). See [here](#getting-blog-index-and-token) for how to find these values
 4. Do final deployment with `vc`
